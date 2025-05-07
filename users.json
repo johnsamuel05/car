@@ -1,0 +1,27 @@
+[
+  {
+    "username": "sam",
+    "email": "sam@admin.com",
+    "password": "$2b$10$n5KFI3mPeY/rT2563s01..yu2BZgef93NyHOljlNx93LICdiwdyRG"
+  },
+  {
+    "username": "admin",
+    "email": "admin@admin.com",
+    "password": "$2b$10$lGgPztKZyS43Mj9pUcpGXeOlLP5unbPPirB9NAAOE7ofFwiRnp8cC"
+  },
+  {
+    "username": "jam",
+    "email": "jam@admin.com",
+    "password": "$2b$10$IgxZoxTQMVdTDeRmngY.KuaG9t1eUhkCBU79CkHZCtv9K9vVSk6di"
+  },
+  {
+    "username": "priya",
+    "email": "priya@bluekode.com",
+    "password": "$2b$10$m4nHpOtFCWX2BuOrLP2jvuDil8pv1xtuzXuPfAnCJdBYWfUlV4gOC"
+  },
+  {
+    "username": "JAM",
+    "email": "ping.johnsamuel@gmail.com",
+    "password": "$2b$10$N.NZuSHU0vD/SKvA.nWyLOiV09kTFyCA.xAoD3zdqQkxtXp0qe2Yy"
+  }
+]
